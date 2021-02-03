@@ -5,10 +5,10 @@
 body{
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('./pexels-julie-aagaard-2120483.jpg');
+    background-image: url('./ivan-torres-MQUqbmszGGM-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    // background-position: center;
     overflow: hidden;
 }
 
@@ -500,14 +500,14 @@ aside{
 
 .reklama{
     font-family: 'Architects Daughter', cursive; 
-    color: rgb(255, 94, 0);
-    text-shadow:  0 0 25px #fff;
+    color: #fff;
+    text-shadow:  0 0 25px #000;
     top: 20px;
     right: 50px;
     position: absolute;
     width: 470px;
     text-align: center;
     span{
-        color: #f00;
+        color: #ff0;
     }
 }

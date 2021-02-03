@@ -24,8 +24,8 @@ let removeModal = document.querySelector('#remove-modal')
 let salom = document.querySelector('.salom')
 let userName = document.querySelector('#user-name')
 
-var username = prompt('Salom hurmatli mijoz ismingiz nima ?')
-userName.textContent = username
+// var username = prompt('Salom hurmatli mijoz ismingiz nima ?')
+// userName.textContent = username
 
 orderFood.addEventListener('click', ()=>{
     modal.classList.add('active')
